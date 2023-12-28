@@ -1,6 +1,10 @@
 # Audits
 It include all my audits pdf and markdown
-![Logo](logo.png)
+
+
+
+  <img src="logo.png" alt="Logo" width="40%"/>
+
 
 
 My AUDITS
